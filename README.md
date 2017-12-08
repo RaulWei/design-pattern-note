@@ -10,5 +10,6 @@
 
 - [行为型模式](/design-pattern/behavioral-patterns/)
   - [责任链模式](/design-pattern/behavioral-patterns/责任链模式.md)
+  - [状态模式](/design-pattern/behavioral-patterns/状态模式.md)
   
 ---
