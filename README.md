@@ -7,6 +7,7 @@
 - [结构型模式](/design-pattern/structural-patterns)
   - [适配器模式](/design-pattern/structural-patterns/适配器模式.md)
   - [桥接模式](/design-pattern/structural-patterns/桥接模式.md)
+  - [装饰模式](/design-pattern/structural-patterns/装饰模式.md)
 
 - [行为型模式](/design-pattern/behavioral-patterns/)
   - [责任链模式](/design-pattern/behavioral-patterns/责任链模式.md)
