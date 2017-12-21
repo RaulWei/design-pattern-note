@@ -17,5 +17,6 @@
   - [策略模式](/design-pattern/behavioral-patterns/策略模式.md)
   - [命令模式](/design-pattern/behavioral-patterns/命令模式.md)
   - [解释器模式](/design-pattern/behavioral-patterns/解释器模式.md)
+  - [迭代器模式](/design-pattern/behavioral-patterns/迭代器模式.md)
   
 ---
