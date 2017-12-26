@@ -10,6 +10,7 @@
   - [装饰模式](/design-pattern/structural-patterns/装饰模式.md)
   - [代理模式](/design-pattern/structural-patterns/代理模式.md)
   - [组合模式](/design-pattern/structural-patterns/组合模式.md)
+  - [享元模式](/design-pattern/structural-patterns/享元模式.md)
 
 - [行为型模式](/design-pattern/behavioral-patterns/)
   - [责任链模式](/design-pattern/behavioral-patterns/责任链模式.md)
