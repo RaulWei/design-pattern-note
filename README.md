@@ -22,5 +22,6 @@
   - [迭代器模式](/design-pattern/behavioral-patterns/迭代器模式.md)
   - [中介者模式](/design-pattern/behavioral-patterns/中介者模式.md)
   - [观察者模式](/design-pattern/behavioral-patterns/观察者模式.md)
+  - [备忘录模式](/design-pattern/behavioral-patterns/备忘录模式.md)
   
 ---
