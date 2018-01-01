@@ -3,6 +3,8 @@
 ---
 
 - [创建型模式](/design-pattern/creational-patterns/)
+  - [工厂方法模式](/design-pattern/creational-patterns/工厂方法模式.md)
+
 
 - [结构型模式](/design-pattern/structural-patterns)
   - [桥接模式](/design-pattern/structural-patterns/桥接模式.md)
